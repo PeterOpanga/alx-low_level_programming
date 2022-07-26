@@ -23,7 +23,7 @@ char *argstostr(int ac, char **av)
 		size++;
 	}
 	size++;
-/**
+ /*
  * allocate memory for total number of chars and
  * new line for each word
  */
